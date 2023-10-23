@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple"> Gurgaon, India.</span>
             <br /> My journey began with a rock-solid foundation in mathematics and economics. However, it's my insatiable curiosity and unending passion for finance that truly set me on a remarkable path
             <br />
-            ourney began with a rock-solid foundation in mathematics and economics. However, it's my insatiable curiosity and unending passion for finance that truly set me on a remarkable path
+            
             <br />
             <br />
             Apart from this, some other activities that I love to do!
